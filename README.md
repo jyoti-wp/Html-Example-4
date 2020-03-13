@@ -1,6 +1,2 @@
-# html-demo
-# html-demo
-# Html-Exp-4
-# Html-Exp-4
 # Html-Example-4
-# Html-Example-4
+An example of html project usinh listing property
