@@ -1,2 +1,2 @@
 # Html-Example-4
-An example of html project usinh listing property
+An example of html project using listing property
